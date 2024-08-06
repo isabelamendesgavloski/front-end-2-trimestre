@@ -76,7 +76,7 @@ body {
 }
 
 .descricao__titulo {
-    font-wight: 700;
+    font-weight: 700;
     font-size: 48px;
     color: var(--branco-principal);
     margin-bottom: 0.1em;
@@ -93,4 +93,10 @@ body {
 
 .container__descricao {
     padding: 2em;
+}
+
+.descricao__texto__menor{
+    color: var(--cinza-segundario);
+    width: 590px;
+
 }
